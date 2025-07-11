@@ -4,3 +4,5 @@ requests
 ms4
 dnspython
 urllib3
+Flask
+gunicorn
